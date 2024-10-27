@@ -2,7 +2,8 @@
 ### ARM Project
 https://github.com/Raj0527/Azure-Resource-Manager-ARM-Templates-Lab
 
-### Azure Storage Project:- https://github.com/Raj0527/AzureStorage
+### Azure Storage Project
+https://github.com/Raj0527/AzureStorage
 
 ### RBAC and Managing Subscription
 
