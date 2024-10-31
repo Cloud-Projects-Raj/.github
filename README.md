@@ -2,6 +2,10 @@
 
 ### Here is my List of Cloud and DevOps Projects for Hands-On Practice with Real-World Scenarios
 
+## AWS Cloud
+### High Availability
+https://github.com/Raj0527/Configuring-High-Availability-in-My-Amazon-VPC/tree/main
+
 ## Azure Cloud
 ### 1. ARM Project
 https://github.com/Raj0527/Azure-Resource-Manager-ARM-Templates-Lab
