@@ -3,7 +3,7 @@
 ### Here is my List of Cloud and DevOps Projects for Hands-On Practice with Real-World Scenarios
 
 ## AWS Cloud
-### 1.High Availability
+### 1. High Availability in AWS VPC
 https://github.com/Raj0527/Configuring-High-Availability-in-My-Amazon-VPC/tree/main
 
 ### 2. Building a Serverless Architecture in AWS
