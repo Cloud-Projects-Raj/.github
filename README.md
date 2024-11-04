@@ -24,6 +24,9 @@ https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/mai
 ### 2. Ansible Work
 https://github.com/Raj0527/AnsibleProjects/tree/main
 
+### 3. Terraform Insight
+https://github.com/Raj0527/Terraform/tree/main
+
 ## Azure Cloud
 ### 1. ARM Project
 https://github.com/Raj0527/Azure-Resource-Manager-ARM-Templates-Lab
