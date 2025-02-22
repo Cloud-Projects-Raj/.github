@@ -1,6 +1,6 @@
-# Raj Aasole's Projects
+# Raj Aasole's Portfolio
 
-### Here is the List of My Cloud and DevOps Projects for Hands-On Practice with Real-World Scenarios
+### Here is the List of My Cloud and DevOps Projects on Real-World Scenarios
 
 ## AWS Cloud
 ### 1. High Availability in AWS VPC
