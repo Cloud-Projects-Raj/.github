@@ -2,6 +2,18 @@
 
 ### Here is the List of My Cloud and DevOps Projects on Real-World Scenarios
 
+## DevOps Projects
+
+### 1. AWS Jenkins-Docker Infrastructure Automation
+https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/main
+
+### 2. Ansible Work
+https://github.com/Raj0527/AnsibleProjects/tree/main
+
+### 3. Terraform Insight
+https://github.com/Raj0527/Terraform/tree/main
+
+
 ## AWS Cloud
 ### 1. High Availability in AWS VPC
 https://github.com/Raj0527/Configuring-High-Availability-in-My-Amazon-VPC/tree/main
@@ -14,18 +26,6 @@ https://github.com/Raj0527/AWS-Networking/tree/main
 
 ### 4. CloudFront-Distribution-with-an-Amazon-S3-Origin
 https://github.com/Raj0527/Configuring-an-Amazon-CloudFront-Distribution-with-an-Amazon-S3-Origin/tree/main
-
-
-## DevOps Projects
-
-### 1. AWS Jenkins-Docker Infrastructure Automation
-https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/main
-
-### 2. Ansible Work
-https://github.com/Raj0527/AnsibleProjects/tree/main
-
-### 3. Terraform Insight
-https://github.com/Raj0527/Terraform/tree/main
 
 ## Azure Cloud
 ### 1. ARM Project
