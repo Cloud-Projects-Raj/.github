@@ -4,13 +4,15 @@
 
 ## DevOps Projects
 
-### 1. AWS Jenkins-Docker Infrastructure Automation
+### 1. DevOps Capstone Project
+
+### 2. AWS Jenkins-Docker Infrastructure Automation
 https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/main
 
-### 2. Ansible Work
+### 3. Ansible Work
 https://github.com/Raj0527/AnsibleProjects/tree/main
 
-### 3. Terraform Insight
+### 4. Terraform Insight
 https://github.com/Raj0527/Terraform/tree/main
 
 
