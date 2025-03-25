@@ -5,6 +5,7 @@
 ## DevOps Projects
 
 ### 1. DevOps Capstone Project
+https://github.com/Raj0527/DevOps-Capstone-Project/tree/main
 
 ### 2. AWS Jenkins-Docker Infrastructure Automation
 https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/main
