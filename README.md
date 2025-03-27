@@ -10,7 +10,10 @@ https://github.com/Raj0527/DevOps-Capstone-Project/tree/main
 ### 2. AWS Jenkins-Docker Infrastructure Automation
 https://github.com/Raj0527/AWS-Jenkins-Docker-Infrastructure-Automation/tree/main
 
-### 3. Ansible Work
+### 3. Dockerized Notes App Deployment with Nginx, Django, and MySQL
+https://github.com/Raj0527/Dockerized-Notes-App-and-Deployment-with-Nginx-Django-and-MySQL/tree/main
+
+### 4. Ansible Project
 https://github.com/Raj0527/AnsibleProjects/tree/main
 
 ### 4. Terraform Insight
